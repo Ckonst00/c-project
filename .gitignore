@@ -1,0 +1,27 @@
+# CLion / IntelliJ IDEA
+.idea/
+*.iml
+
+# CMake build directories
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# Build outputs
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+
+# Other temporary files
+*.log
+*.tmp
+
+project_template.zip
